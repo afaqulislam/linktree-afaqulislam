@@ -10,6 +10,8 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js%2016.1.1-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React%2019.2.3-61DAFB.svg?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript%205.9.3-3178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%204.1.18-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm%2010.26.2-F69220.svg?style=flat-square&logo=pnpm&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)
 
+**[🔗 Live Demo → linktree-afaqulislam.vercel.app](https://linktree-afaqulislam.vercel.app)**
+
 </div>
 
 <div align="center">
@@ -148,5 +150,7 @@ Every profile opens in a **new safe tab** (`target="_blank"` + `rel="noopener no
 **MIT Licensed** — use it, tweak it, ship it.
 
 Made with **Afaq Ul Islam** · © 2026
+
+**🔗 [Live Demo → linktree-afaqulislam.vercel.app](https://linktree-afaqulislam.vercel.app)**
 
 </div>
